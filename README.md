@@ -11,7 +11,9 @@ the blog.
 * [x] Volunteers are cyber security experts and the clients are charities.  The charities sign up for services and they can submit service requests and view them.  When they are complete they can be deleted by the volunteer.  
 * [x] Repaired deadlines (i.e., research and blog page) and placed appropriate content.  I renamed the blog page ‘service requests’. 
 * [x] I did create the CRUD functionality as a separate project first and it works fine.  I have it linking with mongodb and compass and a local .  I can create, read, update and delete entries from the database.
-* [x] the .env file contains a local hosted server address (i.e., localhost:27017/Cruds), this can be changed to MongoDB atlas if needed.  
+* [x] the .env file contains a local hosted server address (i.e., localhost:27017/Cruds), this can be changed to MongoDB atlas if needed. 
+4. Collaborators: Cameron Thain
+[I'm an inline-style link] (https://github.com/Cameron1601/MERN-Website)
 
 
 
