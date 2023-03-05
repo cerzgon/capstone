@@ -1,0 +1,58 @@
+20230220	01:32:10	4e92da90-c88b-49a5-ba7a-a31af0b59460	ValidationError: User validation failed: email: Please add a E-mail, password: Password must contain at least 1 uppercase letter, 1 lowercase letter, 1 number and a special characters	POST	/users	undefined
+20230220	01:33:28	9fb5b356-c19f-401b-80fd-30b26ec41695	SyntaxError: Expected ',' or '}' after property value in JSON at position 91	POST	/users	undefined
+20230220	01:33:45	79b1e083-0b74-473a-a620-238d57828727	ValidationError: User validation failed: email: Please add a E-mail, password: Password must contain at least 1 uppercase letter, 1 lowercase letter, 1 number and a special characters	POST	/users	undefined
+20230220	01:36:50	3b0ee706-9a46-42fd-83f8-13f4968d7922	ValidationError: User validation failed: email: Please add a E-mail	POST	/users	undefined
+20230220	01:38:26	21ae6931-d914-4e5c-b515-13b8dd38e67e	ValidationError: User validation failed: email: Please add a E-mail, password: Password must contain at least 1 uppercase letter, 1 lowercase letter, 1 number and a special characters	POST	/users	undefined
+20230220	01:38:41	008779cf-31cf-48e8-9d1a-26fb2e615724	ValidationError: User validation failed: email: Please add a E-mail, password: Password must contain at least 1 uppercase letter, 1 lowercase letter, 1 number and a special characters	POST	/users	undefined
+20230220	01:40:06	f1dc0d8b-602c-4d51-b584-4396667e4f72	ValidationError: User validation failed: email: Please add a E-mail, password: Password must contain at least 1 uppercase letter, 1 lowercase letter, 1 number and a special characters	POST	/users	undefined
+20230220	15:54:08	57157cb8-fb84-4133-a272-38922d73b89d	ValidationError: User validation failed: email: Please add a E-mail, password: Password must contain at least 1 uppercase letter, 1 lowercase letter, 1 number and a special characters	POST	/users	undefined
+20230220	16:00:19	b271f244-f3ff-44a5-b762-303c4dcf98a3	ValidationError: User validation failed: email: Please add a E-mail, password: Password must contain at least 1 uppercase letter, 1 lowercase letter, 1 number and a special characters	POST	/users	undefined
+20230220	16:00:45	69acd8b0-6870-4c53-9861-2faf01bd9165	ValidationError: User validation failed: email: Please add a E-mail, password: Password must contain at least 1 uppercase letter, 1 lowercase letter, 1 number and a special characters	POST	/users	undefined
+20230220	16:01:10	d925545c-420f-4e5d-9a3a-32e97c0ff70b	ValidationError: User validation failed: email: Please add a E-mail, password: Password must contain at least 1 uppercase letter, 1 lowercase letter, 1 number and a special characters	POST	/users	undefined
+20230220	16:02:26	80b17900-e93a-4bf2-a2dc-c0b174714d5d	ValidationError: User validation failed: email: Please add a E-mail	POST	/users	undefined
+20230220	16:03:09	87221f19-8336-4d78-8c67-ab709dddf666	ValidationError: User validation failed: email: Please add a E-mail, password: Password must contain at least 1 uppercase letter, 1 lowercase letter, 1 number and a special characters	POST	/users	undefined
+20230220	16:03:30	d65ab538-88ad-481f-bb3e-3a9f9937d86c	ValidationError: User validation failed: email: Please add a E-mail	POST	/users	undefined
+20230220	16:11:47	9d2ed3c1-c2bf-494a-884b-305180af6996	SyntaxError: Expected double-quoted property name in JSON at position 88	POST	/users	undefined
+20230220	16:15:46	967b5ab7-258d-444f-950c-958abbda3b18	ValidationError: User validation failed: email: Please add a E-mail, password: Password must contain at least 1 uppercase letter, 1 lowercase letter, 1 number and a special characters	POST	/users	undefined
+20230220	16:16:10	4f91f2f9-e02c-4507-8dd1-f09816370100	ValidationError: User validation failed: email: Please add a E-mail, password: Password must contain at least 1 uppercase letter, 1 lowercase letter, 1 number and a special characters	POST	/users	undefined
+20230220	16:21:01	601f94b3-4d94-4845-9866-e3275fe930ea	ValidationError: User validation failed: email: Please add a E-mail, password: Password must contain at least 1 uppercase letter, 1 lowercase letter, 1 number and a special characters	POST	/users	undefined
+20230220	16:21:41	dc481c55-e94b-4ea5-987c-769aaff538fb	ValidationError: User validation failed: email: Please add a E-mail, password: Password must contain at least 1 uppercase letter, 1 lowercase letter, 1 number and a special characters	POST	/users	undefined
+20230220	16:22:08	1a1c86e0-f713-42f2-9a77-ab92b75889b9	ValidationError: User validation failed: email: Please add a E-mail, password: Password must contain at least 1 uppercase letter, 1 lowercase letter, 1 number and a special characters	POST	/users	undefined
+20230220	16:32:53	d3e56e65-d239-4db7-a83b-15903f0f060c	ValidationError: User validation failed: email: Path `email` is required.	POST	/users	undefined
+20230220	16:38:55	07a76d30-4441-47c1-b31b-54e7424cccb0	MongoServerError: E11000 duplicate key error collection: CyberHackDB.users index: email_1 dup key: { email: null }	POST	/users	undefined
+20230220	16:39:38	04aef09e-0ebf-4225-b372-cfe2a4bd96d9	MongoServerError: E11000 duplicate key error collection: CyberHackDB.users index: email_1 dup key: { email: null }	POST	/users	undefined
+20230220	16:40:45	8a3dd405-4b59-4a72-8203-88261eadf276	SyntaxError: Expected double-quoted property name in JSON at position 59	POST	/users	undefined
+20230220	16:41:40	c43f79a7-bbcb-49a2-b4ef-47d0648c8e78	MongoServerError: E11000 duplicate key error collection: CyberHackDB.users index: email_1 dup key: { email: null }	POST	/users	undefined
+20230220	16:41:51	cabd67b1-851e-4783-a8e3-015069c663b4	MongoServerError: E11000 duplicate key error collection: CyberHackDB.users index: email_1 dup key: { email: null }	POST	/users	undefined
+20230220	16:44:30	14797b27-616b-47d1-81c9-20b025a4a3d2	MongoServerError: E11000 duplicate key error collection: CyberHackDB.users index: email_1 dup key: { email: null }	POST	/users	undefined
+20230220	16:44:40	f3944a1b-bada-402c-9e2d-18f186753411	MongoServerError: E11000 duplicate key error collection: CyberHackDB.users index: email_1 dup key: { email: null }	POST	/users	undefined
+20230220	16:51:21	4dff65af-6895-46e9-b8b7-3495ee715f58	SyntaxError: Expected ',' or ']' after array element in JSON at position 100	POST	/users	undefined
+20230220	16:56:48	db985c18-0ddf-4374-b2d9-b85e58ca5ec4	MongoServerError: E11000 duplicate key error collection: CyberHackDB.users index: email_1 dup key: { email: null }	POST	/users	undefined
+20230220	17:03:20	0cf87af9-ddd3-4cc5-af75-b418092781be	Error: Not allowed by CORS	POST	/api/signup	http://localhost:3001
+20230220	17:03:23	4506592c-6dca-485c-bff5-1859420eeac5	Error: Not allowed by CORS	POST	/api/signup	http://localhost:3001
+20230220	22:51:25	0481ed0c-1824-43ff-94a5-2ae9e0ba9a59	Error: Not allowed by CORS	POST	/record/add	http://localhost:3001
+20230220	22:57:15	a9f187cb-a3f3-4a2a-849f-5f87ea8deba2	Error: Not allowed by CORS	POST	/record/add	http://localhost:3001
+20230220	23:02:50	619fa2fa-7cfd-488c-a3eb-09dd504c5713	Error: Not allowed by CORS	POST	/record/add	http://localhost:3001
+20230220	23:11:40	34be6780-5d11-4b58-b54a-959433eab356	Error: Not allowed by CORS	POST	/record/add	http://localhost:3001
+20230220	23:14:05	aa15611c-73d3-454f-ad48-47d63bf64246	Error: Not allowed by CORS	POST	/record/add	http://localhost:3001
+20230221	18:55:45	8f42068a-c153-44a1-bc8a-edc5802cb06c	Error: Not allowed by CORS	POST	/api/signup	http://localhost:3001
+20230221	18:55:47	6ddd80da-3b20-4881-a2e4-c7ec0404c1b7	Error: Not allowed by CORS	POST	/api/signup	http://localhost:3001
+20230221	18:58:32	41506245-6d6f-4b06-9456-6e4e1e9fd0e4	Error: Not allowed by CORS	POST	/message	http://localhost:3001
+20230221	19:00:52	1abf0663-25ce-447a-b7db-4a5369981fbe	Error: Not allowed by CORS	POST	/api/signup	http://localhost:3001
+20230226	14:55:25	04b003bf-15d4-406e-8c78-6c48ccdf54a9	Error: Not allowed by CORS	POST	/message	http://localhost:3001
+20230226	14:56:57	b901f7a9-a129-4c44-97ab-116d163dfe73	Error: Not allowed by CORS	POST	/api/signup	http://localhost:3001
+20230226	14:56:59	a6149968-9b50-44d0-a288-fe9c89746b24	Error: Not allowed by CORS	POST	/api/signup	http://localhost:3001
+20230226	14:57:16	55c546fd-4677-4ba2-a521-2469d9269ba8	Error: Not allowed by CORS	POST	/api/signin	http://localhost:3001
+20230228	23:36:21	292de328-1196-4c3b-8dd2-5bca57218306	Error: Not allowed by CORS	GET	/ws	http://localhost:3001
+20230228	23:36:24	a55573c8-7cdb-404f-973e-23a658c25a50	Error: Not allowed by CORS	GET	/ws	http://localhost:3001
+20230228	23:36:29	3db3c291-7d50-4ab2-9592-e3fef59cacdb	Error: Not allowed by CORS	GET	/ws	http://localhost:3001
+20230228	23:36:38	2cb84638-bc33-4a44-9394-085a48e33060	Error: Not allowed by CORS	GET	/ws	http://localhost:3001
+20230228	23:36:56	536bd44b-8a27-4f30-982f-aabc57bb14cf	Error: Not allowed by CORS	GET	/ws	http://localhost:3001
+20230228	23:37:38	1f0dedbb-1a48-48b4-a391-d20a345616e8	Error: Not allowed by CORS	GET	/ws	http://localhost:3001
+20230228	23:37:41	a73fa4d6-3d89-4b69-9f98-b3777e2f879c	Error: Not allowed by CORS	POST	/api/signin	http://localhost:3001
+20230228	23:38:51	c1af2969-2646-45bf-aac2-e584b7c3ff47	Error: Not allowed by CORS	GET	/ws	http://localhost:3001
+20230228	23:41:02	4524a58f-5ab4-4917-a1b4-cba699f60776	Error: Not allowed by CORS	GET	/ws	http://localhost:3001
+20230228	23:45:26	e5077e13-49bc-4e01-a5b4-a6e3028dbef8	Error: Not allowed by CORS	GET	/ws	http://localhost:3001
+20230228	23:48:16	f6bd8dfa-29c3-41a9-a90c-a5b13665317a	Error: Not allowed by CORS	POST	/api/signin	http://localhost:3001
+20230228	23:48:39	4cd6e894-8e58-4c5f-a0ee-26ccfd6b1171	Error: Not allowed by CORS	POST	/api/signin	http://localhost:3001
+20230228	23:54:08	eb1f468f-a85a-4e32-93b2-bdbaa82e7a85	Error: Not allowed by CORS	GET	/ws	http://localhost:3001
