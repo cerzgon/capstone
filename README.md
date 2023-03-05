@@ -12,7 +12,7 @@ The following are the contributions made by the author:
 * [x] Unification of the theme and some of the photos and terminology that reference the nature of the site.
 * [x] Use of appropriate terminology, where volunteers are referred to as cyber security experts and clients as charities. The charities can sign up for services, submit service requests, and view them. The volunteer can read, update or delete the service requests upon completion.
 * [x] Repair of deadlinks (i.e., research and blog page) and placement of appropriate content. The blog page was renamed as 'service requests'.
-* [x] Creation of the CRUD functionality as a separate project and successful linking with MongoDB and Compass, with the ability to create, read, update, and delete entries from the database.
+* [x] Creation of the CRUD functionality and successful linking with MongoDB and Compass, with the ability to create, read, update, and delete entries from the database.
 * [x] Inclusion of the .env file containing a local hosted server address (i.e., localhost:27017/Cruds), which can be changed to MongoDB atlas if needed.
 ## Collaborators:
 The project was collaboratively developed by the author and Cameron Thain, who can be found at (https://github.com/Cameron1601/MERN-Website)
