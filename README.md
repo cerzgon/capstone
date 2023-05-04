@@ -15,9 +15,9 @@ The following are the contributions made by the author:
 * [x] Creation of the CRUD functionality and successful linking with MongoDB and Compass, with the ability to create, read, update, and delete entries from the database.
 * [x] Inclusion of the .env file containing a local hosted server address (i.e., localhost:27017/Cruds), which can be changed to MongoDB atlas if needed.
 ## Collaborators:
-The project was collaboratively developed by the author and Cameron Thain, who can be found at (https://github.com/Cameron1601/MERN-Website)
-## Video
-Please click on the link to watch a video demostration of the project (https://drive.google.com/file/d/1keeDJgHgZ_e2O2siGKxkvN2DwCfDFnG5/view?usp=sharing).
+The project was collaboratively developed by the author and Cameron Thain, who can be found at the following link: (https://github.com/Cameron1601/MERN-Website)
+## Video:
+[Please click on the link to watch a video demostration of the project.] (https://drive.google.com/file/d/1keeDJgHgZ_e2O2siGKxkvN2DwCfDFnG5/view?usp=sharing).
 
 
 
