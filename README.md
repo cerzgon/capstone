@@ -17,7 +17,7 @@ The following are the contributions made by the author:
 ## Collaborators:
 The project was collaboratively developed by the author and [Cameron Thain](https://github.com/Cameron1601/MERN-Website)
 ## Video:
-[Please click on the link to watch a video demostration of the project.] (https://drive.google.com/file/d/1keeDJgHgZ_e2O2siGKxkvN2DwCfDFnG5/view?usp=sharing).
+Please watch a video demostration of the [capstone](https://drive.google.com/file/d/1keeDJgHgZ_e2O2siGKxkvN2DwCfDFnG5/view?usp=sharing).
 
 
 
